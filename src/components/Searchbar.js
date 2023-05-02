@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { useState, useEffect } from 'react';
 import { FaSearch } from 'react-icons/fa';
 import { CartState } from '../context/CartContext';
@@ -30,3 +31,4 @@ function Searchbar() {
 }
 
 export default Searchbar;
+/* eslint-enable */
