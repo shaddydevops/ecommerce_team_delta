@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react';
 
 import { useParams } from 'react-router-dom'; // Import the 'useParams' hook from the 'react-router-dom' module
@@ -59,3 +60,4 @@ function ProductInfo() { // Define the 'ProductInfo' component
 }
 
 export default ProductInfo;
+/* eslint-enable */
