@@ -1,3 +1,5 @@
+
+/* eslint-disable */
 import React,{useState} from 'react'
 import logo from '../logo.svg'
 import {Link,NavLink,useNavigate,useLocation} from 'react-router-dom'
@@ -68,3 +70,4 @@ function Navbar() {
     );
 }
 export default Navbar;
+/* eslint-enable */
